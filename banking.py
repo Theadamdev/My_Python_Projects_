@@ -1,3 +1,4 @@
+#this is my first beginner project in python
 def show_balance(balance):
     print("***********************************")
     print(f"  Your balance is ${balance:.2f}  ")
@@ -64,3 +65,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
