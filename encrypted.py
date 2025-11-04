@@ -1,3 +1,4 @@
+#my second project in a row
 import random
 import string
 
@@ -24,4 +25,5 @@ for letter in encrypted:
     message += chars[index]
 
 print(f"Your encrypted message was : {encrypted}")
+
 print(f"Your message is : {message}")
